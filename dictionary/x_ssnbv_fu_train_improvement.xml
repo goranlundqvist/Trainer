@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Improvement" max_length="40" name="x_ssnbv_fu_train_improvement" type="collection"/>
+</database>
